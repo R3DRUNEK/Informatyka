@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f45ed23-cdf4-4342-a8da-7c854d470427" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2k17/SM/Dane_PR2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inne/Python/dane.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inne/Python/okregi.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k17/NM/Pyth/przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +15,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/pixels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/przyklad.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inne/Okregi/Okregi/okregi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" />
+        <option value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" />
+        <option value="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="510" />
-    <option name="y" value="108" />
+    <option name="x" value="590" />
+    <option name="y" value="36" />
     <option name="width" value="1080" />
     <option name="height" value="970" />
   </component>
@@ -30,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -41,16 +85,64 @@
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+              <item name="NM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+              <item name="NM" type="462c0819:PsiDirectoryNode" />
+              <item name="Dane_PR2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="2k18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="2k18" type="462c0819:PsiDirectoryNode" />
+              <item name="WEGA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
               <item name="Inne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Inne" type="462c0819:PsiDirectoryNode" />
+              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IT" type="462c0819:PsiDirectoryNode" />
+              <item name="Inne" type="462c0819:PsiDirectoryNode" />
+              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
+              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PyWorkspace/Algorythm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Macieyo\PycharmProjects\IT\2k17\NM\Pyth" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,6 +155,78 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.pixels">
+    <configuration name="Czy_odkryta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="najdluzszy_podciag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pixels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2k17/NM/Pyth" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pixels" />
+        <item itemvalue="Python.najdluzszy_podciag" />
+        <item itemvalue="Python.Czy_odkryta" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,23 +244,95 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.1396104" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.1396104" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="licz" />
+        <watch expression="j" />
+        <watch expression="j" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k17/SM/Ciagi binarne/binary2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k18/WEGA/WEGA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inne/Okregi/Okregi/okregi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/przyklad.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/pixels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
