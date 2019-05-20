@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f45ed23-cdf4-4342-a8da-7c854d470427" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2k17/NM/Pyth/przyklad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2010/Python/2010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/2012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/klucze1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/klucze2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/sz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k12/Python/tj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k13/Python/Liczby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k14/Python/napisy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k15/Python/pyth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2k16/NM/Python/Cezar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trening/twodimensional.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k16/NM/Dane_PR2/dane_6_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2k16/NM/Python/dane_6_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k16/NM/Dane_PR2/dane_6_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2k16/NM/Python/dane_6_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k16/NM/Dane_PR2/dane_6_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2k16/NM/Python/dane_6_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k16/NM/Excel/PI.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/2k16/NM/Excel/PI.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Centrum danych/Centrumdanych.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/awarie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/komputery.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/naprawy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/sygnaly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Dane_PR2/woda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/MIN-R1_1P-182.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/MIN-R2_1P-182.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/WEGA/WEGA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/WEGA/sygnaly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2k18/Zbiornik/Zbiornik.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inne/RobotPogodaParking/Parking/Parking.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/Inne/RobotPogodaParking/Parking/Parking.accdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +41,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k12/Python/2012.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k18/NM/WEGA/WEGA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k12/Python/bubblesort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k15/Python/pyth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2k16/NM/Python/Cezar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/pixels.py">
+        <entry file="file://$PROJECT_DIR$/2010/Python/2010.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/przyklad.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/2010/Python/odp_4b.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inne/Okregi/Okregi/okregi.py">
+        <entry file="file://$PROJECT_DIR$/2010/Python/odp_4a.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -61,20 +127,34 @@
         <option value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" />
         <option value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" />
         <option value="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" />
+        <option value="$PROJECT_DIR$/2k16/NM/Python/Cezar.py" />
+        <option value="$PROJECT_DIR$/2k15/Python/pyth.py" />
+        <option value="$PROJECT_DIR$/2k18/TeoriaSkojarzone.py" />
+        <option value="$PROJECT_DIR$/2k16/SM/Python/gra.txt" />
+        <option value="$PROJECT_DIR$/2k16/SM/Python/Game.py" />
+        <option value="$PROJECT_DIR$/2k14/Python/napisy.py" />
+        <option value="$PROJECT_DIR$/2k13/Python/Liczby.py" />
+        <option value="$PROJECT_DIR$/2k13/Python/tt.py" />
+        <option value="$PROJECT_DIR$/2k12/Python/2012.py" />
+        <option value="$PROJECT_DIR$/Trening/twodimensional.py" />
+        <option value="$PROJECT_DIR$/2010/Python/1010.py" />
+        <option value="$PROJECT_DIR$/2k12/Python/bubblesort.py" />
+        <option value="$PROJECT_DIR$/2010/Python/2010.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="590" />
-    <option name="y" value="36" />
-    <option name="width" value="1080" />
-    <option name="height" value="970" />
+    <option name="x" value="416" />
+    <option name="y" value="122" />
+    <option name="width" value="1086" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,20 +165,20 @@
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+              <item name="2k16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+              <item name="2k16" type="462c0819:PsiDirectoryNode" />
               <item name="NM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="2k17" type="462c0819:PsiDirectoryNode" />
+              <item name="2k16" type="462c0819:PsiDirectoryNode" />
               <item name="NM" type="462c0819:PsiDirectoryNode" />
-              <item name="Dane_PR2" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
@@ -108,39 +188,42 @@
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="2k18" type="462c0819:PsiDirectoryNode" />
-              <item name="WEGA" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="Inne" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+              <item name="Dane_PR" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="Inne" type="462c0819:PsiDirectoryNode" />
-              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
+              <item name="2010" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IT" type="b2602c69:ProjectViewProjectNode" />
               <item name="IT" type="462c0819:PsiDirectoryNode" />
-              <item name="Inne" type="462c0819:PsiDirectoryNode" />
-              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
-              <item name="Okregi" type="462c0819:PsiDirectoryNode" />
+              <item name="Trening" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PyWorkspace/Algorythm" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Django" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Macieyo\PycharmProjects\IT\2010\Python" />
+      <recent name="C:\Users\Macieyo\PycharmProjects\IT\2k16\NM\Python" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Macieyo\PycharmProjects\IT\2k12\Python" />
+      <recent name="C:\Users\Macieyo\PycharmProjects\IT\2k12" />
       <recent name="C:\Users\Macieyo\PycharmProjects\IT\2k17\NM\Pyth" />
     </key>
   </component>
@@ -156,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pixels">
-    <configuration name="Czy_odkryta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bubblesort">
+    <configuration name="2010" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2010/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/Czy_odkryta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2010/Python/2010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="najdluzszy_podciag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2k12/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2k12/Python/2012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pixels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WEGA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,11 +290,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2k17/NM/Pyth" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2k18/NM/WEGA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2k17/NM/Pyth/pixels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2k18/NM/WEGA/WEGA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bubblesort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2k12/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2k12/Python/bubblesort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twodimensional" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trening" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trening/twodimensional.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,9 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pixels" />
-        <item itemvalue="Python.najdluzszy_podciag" />
-        <item itemvalue="Python.Czy_odkryta" />
+        <item itemvalue="Python.bubblesort" />
+        <item itemvalue="Python.WEGA" />
+        <item itemvalue="Python.2010" />
+        <item itemvalue="Python.twodimensional" />
+        <item itemvalue="Python.2012" />
       </list>
     </recent_temporary>
   </component>
@@ -244,18 +371,18 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15367965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.1396104" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -273,20 +400,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inne/RobotPogodaParking/Teoria/najdluzszy_podciag.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -306,17 +419,11 @@
         <state relative-caret-position="-51" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2k18/WEGA/WEGA.py">
+    <entry file="file://$PROJECT_DIR$/2k18/WEGA/WEGA.py" />
+    <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/pixels.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Inne/Okregi/Okregi/okregi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="708">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -327,10 +434,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2k17/NM/Pyth/pixels.py">
+    <entry file="file://$PROJECT_DIR$/Inne/Okregi/Okregi/okregi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k16/NM/Python/dane_6_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="111" column="10" selection-start-line="111" selection-end-line="111" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k18/TeoriaSkojarzone.py" />
+    <entry file="file://$PROJECT_DIR$/2k16/SM/Python/Game.py" />
+    <entry file="file://$PROJECT_DIR$/2k16/SM/Python/gra.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k13/Python/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k13/Python/dane.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k13/Python/Liczby.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/sz.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/klucze1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/wyjscie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1505" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trening/twodimensional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/tj.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/klucze2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2010/Python/wyjscie.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2010/Python/anagram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k14/Python/napisy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k16/NM/Python/dane_6_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k16/NM/Python/dane_6_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/2012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k18/NM/WEGA/WEGA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k12/Python/bubblesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k15/Python/pyth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2k16/NM/Python/Cezar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2010/Python/odp_4b.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2010/Python/odp_4a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2010/Python/2010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
